@@ -1,12 +1,13 @@
 # PiResNet-2.0: Data-driven Turbulence Modeling
-This code is an advanced version of original PiResNet at https://github.com/Jackachao0618/PiResNet.
-When using this code and our model, the following citations are suggested:
+This model is an advanced version of original PiResNet at https://github.com/Jackachao0618/PiResNet. All codes on this page are publicly avialable. Please refer to the following pubilications when using this code.
+
 
 #### For journal articles, proceeddings, etc..., we suggest:
 
+Chao Jiang, Junyi Mi, Ruilin Chen, Shujin Laima, and Hui Li. "Machine Learning a General-purpose Turbulence Model embedded with Invariance and Realizability." Computer Methods in Applied Mechanics and Engineering (preparation).
+
 Chao Jiang, Ruilin Chen, Junyi Mi, Ricardo Vinuesa, Shujin Laima, and Hui Li. "Data-driven Realizable Turbulence Modeling Using a Physics-informed Deep Residual Neural Network." Physics of Fluids (submitted).
 
-Chao Jiang, Junyi Mi, Ruilin Chen, Shujin Laima, and Hui Li. "Machine Learning a General-purpose Turbulence Model embedded with Invariance and Realizability." Computer Methods in Applied Mechanics and Engineering (preparation).
 
 Also see: 
 
@@ -14,4 +15,4 @@ Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "A Novel Algebraic Stress Model 
 
 #### For presentations, posters, etc..., we suggest also including:
 
-Code obtained from the PiResNet at https://github.com/Jackachao0618/PiResNet
+Code obtained from the PiResNet-2.0 at https://github.com/Jackachao0618/PiResNet-2.0
