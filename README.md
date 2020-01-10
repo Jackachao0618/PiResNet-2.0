@@ -17,6 +17,9 @@ Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "A Novel Algebraic Stress Model 
 
 Code obtained from the PiResNet-2.0 at https://github.com/Jackachao0618/PiResNet-2.0
 
+## Installation:
+
+This package requires the following python packages:
 
 ## Contact Information
 Contact Chao Jiang (jiangchao0451@hit.edu.cn) if you have any questions about the code.
