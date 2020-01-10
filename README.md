@@ -1,4 +1,3 @@
-# PiResNet-2.0
-PiResNet: Data-driven Turbulence Modeling
+# PiResNet-2.0: Data-driven Turbulence Modeling
 
 aasafa
