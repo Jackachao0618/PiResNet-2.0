@@ -16,3 +16,6 @@ Chao Jiang, Junyi Mi, Shujin Laima, and Hui Li. "A Novel Algebraic Stress Model 
 #### For presentations, posters, etc..., we suggest also including:
 
 Code obtained from the PiResNet-2.0 at https://github.com/Jackachao0618/PiResNet-2.0
+
+
+Contact Chao Jiang (jiangchao0451@hit.edu.cn) if you have any questions about the code.
